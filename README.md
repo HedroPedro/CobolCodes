@@ -1,14 +1,6 @@
-# Report Generator
-Simple report generator made in COBOL
-
-## Funcionalities
-- Generation of structured reports
-    
+# Cobol Codes
+Small codes and/or projects done in COBOL
 
 ## Repository Structure
-- pay.cbl: COBOL source code made to generate reports
-- pay.jcl: JCL to execute the Report Generator in z/OS enviroment
-- data: file containing sample data
-
-## License
-This project is licensed with MIT license, see [LICENSE](./LICENSE) for more details
+- luhn\_algo: Implementation of the Luhn Algoritm in COBOL
+- report\_generator: A COBOL code that generates a report
